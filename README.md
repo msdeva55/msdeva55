@@ -2,7 +2,6 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msdeva55&label=Profile%20views&color=0e75b6&style=flat" alt="msdeva55" /> </p>
-<img width="220" height="165" alt="Image" src="https://github.com/user-attachments/assets/c50e87ec-7fb7-45fe-852e-6bd24c666098" />
 
 - 🌱 I’m currently learning **Flask, Django , Reactjs**
 
@@ -10,9 +9,9 @@
 
 - 📝 I regularly write articles on [https://msdeva55.blogspot.com/](https://msdeva55.blogspot.com/)
 
-- 📫 How to reach me **msdevendhiran@gmail.com**
+- 💬 Ask me about **Web Development , Tech related stuff**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/devendhiranm5/](https://www.linkedin.com/in/devendhiranm5/)
+- 📫 How to reach me **msdevendhiran@gmail.com**
 
 - ⚡ Fun fact **I Create Awesome Websites**
 
@@ -27,3 +26,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=msdeva55&show_icons=true&locale=en&layout=compact" alt="msdeva55" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=msdeva55&show_icons=true&locale=en" alt="msdeva55" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=msdeva55&" alt="msdeva55" /></p>
