@@ -2,14 +2,15 @@
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msdeva55&label=Profile%20views&color=0e75b6&style=flat" alt="msdeva55" /> </p>
+<img src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
 
-- 🌱 I’m currently learning **Flask, Django , Reactjs**
+- 🌱 I’m always learning **Python, Flask, Django , Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://msdeva55.neocities.org/](https://msdeva55.neocities.org/)
 
 - 📝 I regularly write articles on [https://msdeva55.blogspot.com/](https://msdeva55.blogspot.com/)
 
-- 💬 Ask me about **Web Development , Tech related stuff**
+- 💬 Ask me about **Web Site Development , Tech related stuff**
 
 - 📫 How to reach me **msdevendhiran@gmail.com**
 
