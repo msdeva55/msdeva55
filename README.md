@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=msdeva55&label=Profile%20views&color=0e75b6&style=flat" alt="msdeva55" /> </p>
 
-- 🌱 I’m currently learning **Python, Flask, Django , Reactjs**
+- 🌱 I’m Known **Python, Flask, Django , Reactjs**
 
 - 👨‍💻 All of my projects are available at [https://msdeva55.neocities.org/](https://msdeva55.neocities.org/)
 
