@@ -5,7 +5,7 @@
 
 - 🌱 I’m Known **Python, FastAPI, Django, Flask, React.js**
 
-- 👨‍💻 All of my projects are available at [https://msdeva55.neocities.org/](https://msdeva55.neocities.org/)
+- 👨‍💻 All of my projects are available at [https://devasite.netlify.app/](https://devasite.netlify.app/)
 
 - 📝 I regularly write articles on [https://msdeva55.blogspot.com/](https://msdeva55.blogspot.com/)
 
